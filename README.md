@@ -1,2 +1,2 @@
-# Adventure-Works-Dashboard
-Power BI Dashboard to track KPIs, comparing regional performance, analyzing product level trends &amp; other insights
+# Adventure Works Dashboard
+Objective: To track KPIs, compare regional performance, analyze product level trends & identify high value customers
