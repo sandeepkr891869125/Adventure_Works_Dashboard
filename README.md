@@ -27,7 +27,7 @@ This project delves into AdventureWorks, a global manufacturing company speciali
    - Implemented a variety of charts and visuals, including KPI cards, matrix, slicers, clustered column chart, bar chart, line charts, gauge, map, etc.
    - Incorporated features such as bookmarks, drill-through filters, and page-level and report-level filters for enhanced interactivity.
 
-**Insights:**
+## Insights:
 - The highest number of orders originate from The United States followed by Australia.
   
 - Approx $24.9 million revenue was generated between January 2020 and June 2022 and profit was around $10.5 million.
