@@ -1,5 +1,4 @@
 # Adventure Works Dashboard
-Objective: To track KPIs, compare regional performance, analyze product level trends & identify high value customers
 
 ## Overview: 
 This project delves into AdventureWorks, a global manufacturing company specializing in cycling equipment and accessories. Objective is to track key performance indicators (KPIs) such as sales, revenue, profit, and returns. Additionally, to compare regional performance, analyze product-level trends, and identify high-value customers.
